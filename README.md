@@ -14,14 +14,18 @@
 </div>
 <div>
 	<h4>Install required dependencies:</h4>
-	 <ul dir="auto">
-		 <li>clone or download it from <a href="https://github.com/FatemehAbbasi2545/web-scraper">here</a></li>
-		 <li><code>python -m venv scraperenv</code></li>
+	<ul>
+		<li>clone or download it from <a href="https://github.com/FatemehAbbasi2545/web-scraper">here</a></li>
+		<li><code>python -m venv scraperenv</code></li>
   		<li><code>scraperenv\Scripts\activate  </code></li>
   		<li><code>python -m pip install --upgrade pip</code></li>
   		<li><code>python -m pip install requests</code></li>
   		<li><code>python -m pip install beautifulsoup4</code></li>  
  	</ul>
+</div>
+<div>
+	<h4>run code</h4>
+	
 </div>
 
 
