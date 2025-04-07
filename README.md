@@ -17,15 +17,21 @@
 	<ul>
 		<li>clone or download it from <a href="https://github.com/FatemehAbbasi2545/web-scraper">here</a></li>
 		<li><code>python -m venv scraperenv</code></li>
-  		<li><code>scraperenv\Scripts\activate  </code></li>
+  		<li><code>scraperenv\Scripts\activate</code></li>
   		<li><code>python -m pip install --upgrade pip</code></li>
   		<li><code>python -m pip install requests</code></li>
   		<li><code>python -m pip install beautifulsoup4</code></li>  
  	</ul>
 </div>
 <div>
-	<h4>run code</h4>
-	
+	<h4>run code:</h4>
+	<span>
+		Press the F5 to start debugging or press CTRL+F5 to run without debugging in an IDE or run the following code:
+	</span>
+	<ul>
+		<li><code>python -i _crypto_price.py</code></li>
+  		<li><code>python -i lyrics.py</code></li>
+ 	</ul>
 </div>
 
 
