@@ -24,10 +24,8 @@
  	</ul>
 </div>
 <div>
-	<h4>run code:</h4>
-	<span>
-		Press the F5 to start debugging or press CTRL+F5 to run without debugging in an IDE or run the following code:
-	</span>
+	<h4>Code execution:</h4>
+	<span>Press the F5 to start debugging or press CTRL+F5 to run without debugging in an IDE or run the following code:</span>
 	<ul>
 		<li><code>python -i _crypto_price.py</code></li>
   		<li><code>python -i lyrics.py</code></li>
