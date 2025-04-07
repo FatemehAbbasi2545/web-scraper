@@ -20,9 +20,7 @@
   		<li><code>scraperenv\Scripts\activate  </code></li>
   		<li><code>python -m pip install --upgrade pip</code></li>
   		<li><code>python -m pip install requests</code></li>
-  		<li><code>python -m pip install beautifulsoup4</code></li>
-
-  
+  		<li><code>python -m pip install beautifulsoup4</code></li>  
  	</ul>
 </div>
 
