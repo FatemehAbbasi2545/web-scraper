@@ -7,6 +7,7 @@
 	<li>requests</li>
 	<li>bs4</li>
 </ul>
+<h3 tabindex="-1" class="heading-element" dir="auto">Install required dependencies:</h3>
 <div>
 	<h3 tabindex="-1" class="heading-element" dir="auto">Install required dependencies:</h3>
 	<a id="user-content-install-required-dependencies-" class="anchor" aria-label="Permalink: Install required dependencies :" href="#install-required-dependencies-"></a>
